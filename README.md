@@ -1,6 +1,6 @@
 # Question Answering App
 
-This Streamlit app allows users to input a URL and ask questions based on the text extracted from that webpage. It utilizes the Hugging Face `transformers` library for question answering and `BeautifulSoup` for web scraping.
+This Streamlit app allows users to input a URL and ask questions based on the text extracted from that webpage. It utilizes the BERT from transformers library for question answering and `BeautifulSoup` for web scraping.
 
 ## Setup
 
